@@ -13,7 +13,7 @@ Visit the website at this [link](https://mapty-app-drab.vercel.app/) .
 - HTML – Build content structure
 - CSS – Styling
 - JavaScript – Language
-- [Leaflet library](https://vercel.com/) – Displaying a map
+- [Leaflet library](https://leafletjs.com/) – Displaying a map
 - [Vercel](https://vercel.com/) – Hosting
 
 ## How to run the project:
